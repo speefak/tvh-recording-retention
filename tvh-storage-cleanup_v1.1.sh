@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # =============================================================================
-# tvh-storage-cleanup
+# tvh-recording-retention
 # Version: 1.1 (2026-09-07)
 # Purpose: Tvheadend recording cleanup script (Keep Days + Keep Last Count)
 #          + removes orphaned DVR log entries (fixes stale entries in
